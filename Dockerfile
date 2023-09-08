@@ -1,7 +1,7 @@
 FROM ubuntu
 EXPOSE 8080
 WORKDIR /app
-USER root
+USER xysun
 
 COPY entrypoint.sh ./
 
