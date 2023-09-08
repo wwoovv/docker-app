@@ -3,7 +3,7 @@
 # 默认各参数值，请自行修改.(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 NEZHA_SERVER=${NEZHA_SERVER:-'nz.f4i.cn'}
 NEZHA_PORT=${NEZHA_PORT:-'5555'}
-NEZHA_KEY=${NEZHA_KEY:-'481qupd9Zwj4H2eSXc'}
+NEZHA_KEY=${NEZHA_KEY:-'6B5TSx6CiGqfS0oJzc'}
 PORT=${PORT:-'8080'}
 UUID=${UUID:-'868c8abd-12d8-46a5-be69-aa51d46ae109'}
 WSPATH=${WSPATH:-'argo'}
